@@ -1,5 +1,5 @@
-vizag
-araku
-delhi
-kashmir
-ooty
+vizag -- 10000
+araku -- 3000
+delhi -- 4000
+kashmir -- 44404
+ooty -- 44454
