@@ -4,3 +4,5 @@ delhi -- 4005
 kashmir -- 44405
 ooty -- 44454
 prem -- 3450
+ylm -- 10000
+tarun --45660
