@@ -3,3 +3,4 @@ araku -- 3000
 delhi -- 4005
 kashmir -- 44405
 ooty -- 44454
+prem -- 3450
